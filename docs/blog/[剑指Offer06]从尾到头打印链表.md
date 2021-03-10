@@ -49,7 +49,7 @@ public int[] reversePrint(ListNode head) {
 
 #### 他人思路：
 
-- 栈	【利用栈的后进先出特性】
+栈	【利用栈的后进先出特性】
 ```java
   public int[] reversePrint(ListNode head) {
         Stack<ListNode> stack = new Stack<ListNode>();  
@@ -70,7 +70,7 @@ public int[] reversePrint(ListNode head) {
 
 ---
 
-- 递归
+递归
   - 递推阶段：每次传入` head.next`,以`head==null`为递归终止条件
     
   - 回溯阶段：层层回溯，将节点值加入列表`tmp`
