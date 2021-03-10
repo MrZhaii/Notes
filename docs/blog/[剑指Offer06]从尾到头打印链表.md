@@ -73,7 +73,7 @@ public int[] reversePrint(ListNode head) {
 - 递归
   - 递推阶段：每次传入` head.next`,以`head==null`为递归终止条件
     
-  - 回溯阶段：层层回溯，将节点值加入列表
+  - 回溯阶段：层层回溯，将节点值加入列表`tmp`
     
   - 最终阶段：列表转换为数组
 

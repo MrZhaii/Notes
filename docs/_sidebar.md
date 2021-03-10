@@ -1,3 +1,3 @@
 - Scala
 - 剑指offer
-  - [[剑指Offer06]从尾到头打印链表.md](/blog/[剑指Offer06]从尾到头打印链表.md)
+  - [[剑指Offer06]从尾到头打印链表](/blog/[剑指Offer06]从尾到头打印链表.md)
